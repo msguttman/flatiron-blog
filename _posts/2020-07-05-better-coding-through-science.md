@@ -8,7 +8,7 @@ categories: coding science
 >"Contrary to what most mathemeticians since antiquity have believed, and believe to this day, proof theory can never be made into a branch of mathematics. Proof theory is a science: specifically, it is computer science"  
 > ~ David Deutsch, The Beginning of Infinity
 
-At 35 years old, after years of inconsistent dabbling, I am finally "learning to code" in earnest.  One of the mixed blessings of the modern technology sector is the ubiquity of freely available educational resources.  This means that the main problem facing an aspiring learner is not how to find information, but *how to synthesize it efficiently and quickly.*  **Understanding how people learn can help anyone to learn faster and more effectively.**  
+One of the mixed blessings of the modern technology sector is the ubiquity of freely available educational resources.  This means that the main problem facing an aspiring learner is not how to find information, but *how to synthesize it efficiently and quickly.*  **Understanding how people learn can help anyone to learn faster and more effectively.**  
 
 **People learn by making theories about the world and then testing them against observations.**  
 
