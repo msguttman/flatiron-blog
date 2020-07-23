@@ -2,7 +2,7 @@
 layout: post
 title:  "Better Learning Through Science"
 date:   2020-07-05 22:00:00 -0500
-categories: coding science
+categories: computers science pedagogy
 ---
 
 >"Contrary to what most mathemeticians since antiquity have believed, and believe to this day, proof theory can never be made into a branch of mathematics. Proof theory is a science: specifically, it is computer science"  
