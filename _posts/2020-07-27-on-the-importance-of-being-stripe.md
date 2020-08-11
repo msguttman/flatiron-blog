@@ -10,7 +10,7 @@ Patrick Collison, as of the time of this writing, describes himself in his Twtit
 In my corner of twitter, and from what I can tell, in technology circiles generally, Stripe has an almost mythical reputation.
 My favorite example of this is a recruiting message from Jeff that suggested candidates should be "oddly effective at most things."
 
-{% include amjadtweet.html %}
+{% include jefftweet.html %}
 
 I want to connect what I think is a deep relationship between Patrick's bio and the kind of culture that makes companies, and technology companies in particular, oddly effective at most things.
 
